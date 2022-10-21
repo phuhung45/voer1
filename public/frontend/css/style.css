@@ -1,0 +1,48 @@
+ul{
+    list-style: none !important;
+    display: flex !important;
+}
+.btn{
+    display: flex !important;
+    width: 100% !important;
+    position: fixed;
+    z-index: 1;
+    background-color: #ce1f4d;
+
+}
+.btn .btn .container .main{
+    display: flex !important;
+    width: 100%;
+    height: 100px;
+    z-index: 1;
+    background-color: #ce1f4d;
+}
+.btn btn container menu{
+    width: 50%;
+    height: 100px;
+}
+
+.btn btn container language{
+    width: 20%;
+    height: 100px;
+}
+.btn btn container account{
+    width: 30%;
+    height: 100px;
+}
+.btn-browser-all:hover {
+    color: #FFFFFF;
+    background: #c43e63;
+    border: 1px solid #942241;
+}
+
+a:hover, a:focus {
+    color: #c43e63;
+    text-decoration: none;
+}
+.slide1{
+    padding-top: 150px;
+}
+.main{
+    position: fixed;
+}
